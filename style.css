@@ -83,6 +83,11 @@ header h1
     margin: 0 0 0 10px;
 }
 
+h1
+{
+    color: red;
+}
+
 header h2
 {
     font-family: Dayrom, serif;
