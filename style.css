@@ -83,6 +83,11 @@ header h1
     margin: 0 0 0 10px;
 }
 
+h1
+{
+    color: red;
+}
+
 header h2
 {
     font-family: Dayrom, serif;
@@ -107,7 +112,7 @@ nav li
 nav a
 {
     font-size: 1.3em;
-    color: #181818;
+    color: blue;
     padding-bottom: 3px;
     text-decoration: none;
 }
